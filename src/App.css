@@ -1,0 +1,38 @@
+.welcome{
+    frot-size: 40px;
+}
+h1 {
+    font-weight:600;
+    font-size: 25px;
+    margin: 10px;
+    margin-bottom: 25px;
+}
+input {
+    width:100%;
+}
+.items-container{
+    text-align: left;
+}
+.syam-button{
+    width: 80px;
+}
+.syam-row {
+    margin:10px 5px;
+}
+.todo-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+/* .style{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+} */
+
+
+  
+  
